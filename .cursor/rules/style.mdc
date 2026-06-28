@@ -10,4 +10,3 @@ Follow `docs/style.mdc` in this repository. Summary:
 - US English, serial comma, bullet lists end no stop unless sentence count >1
 - No em dashes, no `---` markdown separators
 - Use heading levels for structure, rare bolding, no **{bolded item}**: pattern lists
-- No personal email in git. Administrator via private runbook. Crypto sign-off: masterbunny.eth

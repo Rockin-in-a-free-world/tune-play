@@ -26,9 +26,4 @@ Apply these rules to all documentation, README files, comments meant for users, 
 
 ## Roles (reference)
 
-- **Repository administrator:** Google OAuth, Tailscale, store accounts, gateway ops (private runbook, not in git)
 - **Crypto key holder and smart contract sign-off:** masterbunny.eth (Linea deploys, gateway signer, on-chain fee approvals)
-
-## Privacy
-
-- Do not commit personal email addresses or other PII in this repository
