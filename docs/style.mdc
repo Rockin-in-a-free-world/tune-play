@@ -9,25 +9,26 @@ Apply these rules to all documentation, README files, comments meant for users, 
 
 ## Language
 
-- Use **US English** spelling and conventions (`color`, `organize`, `license`).
-- Use the **serial comma** (Oxford comma) in lists of three or more items.
+- Use **US English** spelling and conventions (`color`, `organize`, `license`)
+- Use the **serial comma** (Oxford comma) in lists of three or more items
+- Bullet lists end no stop, unless sentence count >1
 
 ## Punctuation and formatting
 
-- **Do not use em dashes** (`—`). Use a comma, a period, or a hyphen instead.
-- **Do not use horizontal rule separators** (`---`, `***`, or `___`) in markdown files.
-- **Do use heading levels** (`#`, `##`, `###`) to structure documents. Do not rely on bold alone for section titles.
+- **Do not use em dashes** (`—`). Use a comma, a period, or a semi colon as appropriate
+- **Do not use horizontal rule separators** (`---`, `***`, or `___`)
+- **Do use heading levels** (`#`, `##`, `###`) to structure documents
+- Bolding must be rare, no **{bolded item}**: pattern lists
 
 ## Tone
 
-- Prefer plain, direct sentences.
-- Keep day-0 docs short. Mark uncertainty where the plan may still change.
+- Prefer plain, direct sentences
 
 ## Roles (reference)
 
-- **Repository administrator:** Google OAuth, Tailscale, store accounts, gateway ops. Contact details live in a private runbook, not in git.
-- **Crypto key holder and smart contract sign-off:** masterbunny.eth (Linea deploys, gateway signer, on-chain fee approvals).
+- **Repository administrator:** Google OAuth, Tailscale, store accounts, gateway ops (private runbook, not in git)
+- **Crypto key holder and smart contract sign-off:** masterbunny.eth (Linea deploys, gateway signer, on-chain fee approvals)
 
 ## Privacy
 
-- Do not commit personal email addresses or other PII in this repository.
+- Do not commit personal email addresses or other PII in this repository
