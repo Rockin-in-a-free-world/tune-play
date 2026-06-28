@@ -1,3 +1,6 @@
+# Dependencies
+node_modules/
+
 # Remix compiler artifacts
 **/artifacts/
 **/artifacts/**
@@ -10,6 +13,16 @@ states/
 *.dbg.json
 *.tsbuildinfo
 
+# Hardhat / Foundry
+cache/
+typechain-types/
+
 # Optional
 .env
 .env.local
+
+# OS
+.DS_Store
+
+# Private ops (never commit)
+docs/private/
