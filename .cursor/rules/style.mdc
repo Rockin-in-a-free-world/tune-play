@@ -1,0 +1,13 @@
+---
+description: Writing standards for tune-play (canonical copy in docs/style.mdc)
+alwaysApply: true
+---
+
+# tune-play style guide
+
+Follow `docs/style.mdc` in this repository. Summary:
+
+- US English, serial comma.
+- No em dashes. No `---` markdown separators.
+- Use heading levels for structure.
+- No personal email in git. Administrator via private runbook. Crypto sign-off: masterbunny.eth.
