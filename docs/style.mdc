@@ -9,16 +9,16 @@ Apply these rules to all documentation, README files, comments meant for users, 
 
 ## Language
 
-- Use **US English** spelling and conventions (`color`, `organize`, `license`)
-- Use the **serial comma** (Oxford comma) in lists of three or more items
+- Use US English spelling and conventions (`color`, `organize`, `license`)
+- Use the serial comma (Oxford comma) in lists of three or more items
 - Bullet lists end no stop, unless sentence count >1
 
 ## Punctuation and formatting
 
-- **Do not use em dashes** (`—`). Use a comma, a period, or a semi colon as appropriate
-- **Do not use horizontal rule separators** (`---`, `***`, or `___`)
-- **Do use heading levels** (`#`, `##`, `###`) to structure documents
-- Bolding must be rare, no **{bolded item}**: pattern lists
+- Do not use em dashes (`—`). Use a comma, a period, or a semi colon as appropriate
+- Do not use horizontal rule separators (`---`, `***`, or `___`)
+- Do use heading levels (`#`, `##`, `###`) to structure documents
+- Bolding must be rare, no **{bolded item}**: like this
 
 ## Tone
 
